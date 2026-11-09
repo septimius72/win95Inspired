@@ -8,8 +8,6 @@ I built a nostalgic, interactive desktop sandbox environment to showcase my recr
 *   **Recruit_Database.mdb:** A structured interactive interface demonstrating pipeline breakdown metrics across Engineering, Cyber Threat Intel, and GTM.
 *   **The Tech Stack Behind It:** Engineered with custom window resizing grips, mechanical ratchet audio feedback mechanics, and a vintage CRT scanline toggle.
 
-👉 **[Launch the Alex95 Interactive Sandbox Suite](https://github.com)** *(Replace with your live portfolio link)*
-
 ---
 
 ### 📌 Pinned Repositories Layout Suggestion
